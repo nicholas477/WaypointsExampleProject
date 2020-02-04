@@ -1,0 +1,3 @@
+[submodule "Plugins/Waypoints"]
+	path = Plugins/Waypoints
+	url = https://github.com/nicholas477/Waypoints.git
